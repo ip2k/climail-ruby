@@ -1,0 +1,9 @@
+climail-ruby is a CLI Mail User Agent (MUA) built because mutt doesn't do what I want, and also because playing with Ruby is fun.
+
+Gems Required: mattscilipoti-rdialog
+
+WORK IN PROGRESS.  Don't expect this to be actually usable for a while.
+
+Progress:
+
+8-28-11: Project started.  Works for me; lets you connect to an IMAP[S] mailbox, get a list of messages, and read a message.
